@@ -1,6 +1,8 @@
 # grafana-dashboard-keda-deployments-scalability
 Dashboard do Grafana para analisar a escalabilidade de deployments em Kubernetes utilizando o projeto KEDA.
 
+Este dashboard foi gerado a partir do MCP Server do Azure Managed Grafana: **https://github.com/renatogroffe/azuremanagedgrafana-mcpserver-vscode-agents-githubcopilot**
+
 Há instruções na documentação oficial do KEDA abordando o suporte a Prometheus, com métricas disponíveis e até um dashboard oficial para acompanhamento via Grafana: **https://keda.sh/docs/2.21/integrations/prometheus/**
 
 As definições deste dashboard estão no GitHub: **https://github.com/kedacore/keda/blob/main/config/grafana/keda-dashboard.json**
